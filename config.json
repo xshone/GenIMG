@@ -1,0 +1,23 @@
+{
+  "output_dir": "C:\\Users\\XJ\\Desktop\\NFT_Faces",
+  "assets_dir": ".\\assets",
+  "parts": [
+    {
+      "layer_index": 1,
+      "directory": "clothes"
+    },
+    {
+      "layer_index": 2,
+      "directory": "face"
+    },
+    {
+      "layer_index": 3,
+      "directory": "tattoo"
+    },
+    {
+      "layer_index": 4,
+      "directory": "eye"
+    }
+  ],
+  "image_mode": "RGBA"
+}
