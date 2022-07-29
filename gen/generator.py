@@ -1,3 +1,7 @@
+# encoding: utf-8
+# @file: transformer
+# @author: XiongJie
+# @time: 2022/7/28 11:46
 import json
 import os.path
 import time
