@@ -1,9 +1,9 @@
 # encoding: utf-8
-# @file: rgb.py
+# @file: core.py
 # @author: XiongJie
 # @time: 2022/7/28 17:29
-import numpy as np
 import PIL.Image
+import numpy as np
 
 
 class RGBTransform(object):
